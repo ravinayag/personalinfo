@@ -1,4 +1,6 @@
-### Hi there, I'm Ravi-[website] 👋
+### Hi there, 
+
+I'm Ravi-[website] 👋
 
 [![Website](https://knowledgesoicety.tech)](https://knowledgesociety.tech)
 
@@ -7,7 +9,7 @@
 
 - 🔭 I just launched my first tool: [ Hyperledger config generator!]!
 - 🌱 I’m currently learning everything in Developers  & Enterprenuers world,   🤣
-- 👯 I’m looking to collaborate with other product owners, Innovative Automations
+- 👯 I’m looking to collaborate with product owners, Innovative Automations, Product creations, Auto Deployments
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen musics, debate coversasions, and  Deep learn insight of ethical Cultures
 
