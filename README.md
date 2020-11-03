@@ -21,3 +21,12 @@
 - [Mautic Automation Frame work - Functionalty explained  ](https://youtu.be/EI8k2oCiTPo)
 
 ### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Key Notes to Understand Hyperledger Fabric effectively](https://ravinayag.medium.com/key-notes-to-understand-hyperledger-fabric-effectively-part-2-2b2d3ce01d66)
+- [Hyperledger Fabric 1.4.3 on Multiple Hosts using Docker Swarm](https://ravinayag.medium.com/hyperledger-fabric-1-4-3-on-multiple-hosts-using-docker-swarm-compose-and-fabcar-applications-3e0aaad5cd0d)
+- [MYSQL Access over the internet without FQDN](https://ravinayag.medium.com/mysql-db-access-only-from-workstation-with-dynamic-address-with-full-security-do-at-your-own-risk-4230b2cb0049)
+- [Fabric Samples Explained - First Network 1.4 ( BYFN & EYFN )](https://ravinayag.medium.com/hyperledger-fabric-samples-explained-first-network-1-4-byfn-eyfn-f57030cd6043)
+- [P2V — Convert to VM — Boot Issues ](https://medium.com/@ravinayag/p2v-convert-your-oem-win7-system-to-vm-boot-issue-fix-890d90b50b64)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://ravinayag.medium.com/)
